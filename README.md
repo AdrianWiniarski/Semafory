@@ -1,2 +1,2 @@
 # Semafory
-## Stworzone przy pomocy wielu ludzi? ale znalezione prze Oskar Szubert
+## Stworzone przy pomocy wielu ludzi? ale znalezione przez Oskar Szubert
